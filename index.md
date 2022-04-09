@@ -12,15 +12,14 @@ Try using some commands in terminal :
 * For Example,  ls and ls < directory > : 
 * Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output
 ![Image6](15L-1-6.png)
-## Step 4:
-Copying files from your own desktop to server.
+## Step 4: Copying files from your own desktop to server.
 * 1) Writing the code first ,
 * 2) Using scp to copy
 * 3) logging into server using ssh and username
 * 4) checking the list on server using ls command
 * 5) Logging out using exit
-
 ![Image7](15L-1-4.png)
+
 ## Step 5 : To avoid using password again and again after using commands like scp, we setup a public key ( on server ) and private key ( on desktop ) 
 * 1) Type ssh-keygen
 * 2) Enter file when prompted. Here,
