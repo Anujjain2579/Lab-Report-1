@@ -7,11 +7,11 @@
 * 3) When Prompted for surety to continue, type *yes*. Then enter the password.
 ![Image3](15L-1-3.png)
 
-## Step 3: 
-Try using some commands in terminal :
-* For Example,  ls and ls < directory > : 
-* Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output
+## Step 3: Try using some commands in terminal :
+* 1) For Example,  ls and ls < directory > : 
+* 2) Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output 
 ![Image6](15L-1-6.png)
+
 ## Step 4: Copying files from your own desktop to server.
 * 1) Writing the code first ,
 * 2) Using scp to copy
