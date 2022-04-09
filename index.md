@@ -34,5 +34,5 @@ Copying files from your own desktop to server.
 * To use commands already used earlier ( or snippets of it ) , click UP arrow key. 
 * To enter multiple commands in a single line, use semicolon as a separator.
 * To run a command directly on the server, type ssh <username> “<command>”
-      ![Image7](15L-1-7.png)
-      ![Image8](15L-1-8.png)
+![Image7](15L-1-7.png)
+![Image8](15L-1-8.png)
