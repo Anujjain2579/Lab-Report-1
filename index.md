@@ -9,8 +9,8 @@
 
 ## Step 3: 
 Try using some commands in terminal :
-      For Example,  ls and ls < directory > : 
-      Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output
+* For Example,  ls and ls < directory > : 
+* Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output
 ![Image6](15L-1-6.png)
 ## Step 4:
 Copying files from your own desktop to server.
