@@ -18,7 +18,7 @@
 * 3) logging into server using ssh and username
 * 4) checking the list on server using ls command
 * 5) Logging out using exit
-![Image7](15L-1-4.png)
+![Image4](15L-1-4.png)
 
 ## Step 5 : To avoid using password again and again after using commands like scp, we setup a public key ( on server ) and private key ( on desktop ) 
 * 1) Type ssh-keygen
