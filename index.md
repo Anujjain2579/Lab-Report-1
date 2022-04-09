@@ -11,4 +11,4 @@
 Try using some commands in terminal :
       For Example,  ls and ls < directory > : 
       Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output
- ![Image4](15L-1-4.png)
+![Image4](15L-1-4.png)
