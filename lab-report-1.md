@@ -7,7 +7,7 @@
 * 3) When Prompted for surety to continue, type *yes*. Then enter the password.
 ![Image3](15L-1-3.png)
 
-### Step 3: Try using some commands in terminal :
+## Step 3: Try using some commands in terminal :
 * 1) For Example,  ls and ls < directory > : 
 * 2) Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output 
 * ![Image9](15L-1-S3.png)
