@@ -10,9 +10,9 @@
 ## Step 3: Try using some commands in terminal :
 * 1) For Example,  ls and ls < directory > : 
 * 2) Here, List of folders in group is only perl5 so commands ls and ls <directory> gives same output 
-![Image6](15L-1-6.png)
+* ![Image6](15L-1-6.png)
 
-### Step 4: Copying files from your own desktop to server.
+## Step 4: Copying files from your own desktop to server.
 * 1) Writing the code first ,
 * 2) Using scp to copy
 * 3) logging into server using ssh and username
@@ -20,7 +20,7 @@
 * 5) Logging out using exit
 * ![Image4](15L-1-4.png)
 
-### Step 5 : To avoid using password again and again after using commands like scp, we setup a public key ( on server ) and private key ( on desktop ) 
+## Step 5 : To avoid using password again and again after using commands like scp, we setup a public key ( on server ) and private key ( on desktop ) 
 * 1) Type ssh-keygen
 * 2) Enter file when prompted. Here,
 
@@ -28,7 +28,7 @@
 
 ![Image5](15L-1-5.png)
 
-### Step 6: Optimizing Remote Running
+## Step 6: Optimizing Remote Running
 
 * To use commands already used earlier ( or snippets of it ) , click UP arrow key. 
 * To enter multiple commands in a single line, use semicolon as a separator.
