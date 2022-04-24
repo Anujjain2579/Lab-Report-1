@@ -1,6 +1,6 @@
 # Debugging Practice
 ## Error 1
-For test file containing **with text after the Link**, [Link4](https://github.com/Anujjain2579/markdown-parser/blob/main/my-test-file4.md) following error is encountered
+For test file [Link4](https://github.com/Anujjain2579/markdown-parser/blob/main/my-test-file4.md) **with text after the Link**, containing following error is encountered :
 
 ![Image1](File4-Error.png)
 Runs infinitely and thus run out of heap space.
