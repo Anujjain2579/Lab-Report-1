@@ -1,6 +1,6 @@
 # Debugging Practice
 ## Error 1
-For test file containing **with text after the Link**, [Link4](https://github.com/Anujjain2579/markdown-parser/blob/main/test-file4.md) following error is encountered
+For test file containing **with text after the Link**, [Link4](https://github.com/Anujjain2579/markdown-parser/blob/main/my-test-file4.md) following error is encountered
 
 ![Image1](File4-Error.png)
 Runs infinitely and thus run out of heap space.
@@ -9,7 +9,7 @@ To overcome, we make the following changes : [Link1](https://github.com/Anujjain
 ![Image4](File4-Change.png)
 
 ## Error 2
-For test file containing Array with no links [Link5](https://github.com/Anujjain2579/markdown-parser/blob/main/test-file5.md)
+For test file containing Array with no links [Link5](https://github.com/Anujjain2579/markdown-parser/blob/main/my-test-file5.md)
 ![Image2](File5-Error.png)
 * The format capture text which is not a link. Link should mandatorily has " . " in it.
 * To overcome : [Link2](https://github.com/Anujjain2579/markdown-parser/commit/14c3c3d59d5d1657be6e3f551694c2e2a42c5c45)
@@ -17,7 +17,7 @@ For test file containing Array with no links [Link5](https://github.com/Anujjain
 ![Image5](File5-Change.png)
 
 ## Error 3
-For test file with images instead of link [Link6](https://github.com/Anujjain2579/markdown-parser/blob/main/test-file6.md)
+For test file with images instead of link [Link6](https://github.com/Anujjain2579/markdown-parser/blob/main/my-test-file6.md)
 ![Image3](File6-Error.png)
 * Since format is almost similar in markdown for image and Links, image is captured as link while parsing.
 * To overcome : [Link3](https://github.com/Anujjain2579/markdown-parser/commit/38468757fda8b69b551ef99be6f23ff67f1f8e98)
