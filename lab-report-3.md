@@ -13,10 +13,15 @@
 ![Image6](2-3.png)
 ### **Adding public key to the Github Profile**
 ![Image7](2-4.png)
+### **Making a new file in ieng6 server**
+![Image8](2-5.png)
+### **Adding and Commiting file to github**
+![Image9](2-6.png)
+![Image10](2-7.png)
 ### **Copying whole markdown-parse directory into ieng6 server**
-![Image8](3-1.png)
+![Image11](3-1.png)
 ### **Logging and testing the markdownparse in ieng6 server**
-![Image9](3-2.png)
+![Image12](3-2.png)
 ### **Performing above 2 operations in single line**
-![Image10](2ndLast.png)
-![Image11](Last.png)
+![Image13](2ndLast.png)
+![Image14](Last.png)
