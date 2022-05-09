@@ -1,1 +1,11 @@
-# Streamlining Server
+## Streamlining Server
+![Image1](1-1.png)
+![Image2](1-2.png)
+![Image3](1-3.png)
+![Image4](2-1.png)
+![Image5](2-2.png)
+![Image1](2-3.png)
+![Image1](2-4.png)
+![Image1](3-1.png)
+![Image1](3-2.png)
+![Image1](3-3.png)
