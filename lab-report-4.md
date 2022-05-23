@@ -12,9 +12,9 @@ The presence of backslash means to ignore the close Bracket and rather consider 
 For it, I added the if statement before continue statement.
 ### Run after change
 ![Image3](L4-2.png)
-**This whole change was just 7 lines of code.** 
-*To overcome the long texts, I found the index of new line character \n. Then we break link into 2 parts and merge again leaving \n. For extra spaces, I used trim() method just before adding the string.*
 ### Changes made to pass Snippet 3
 ![Image4](L4-4.png)
+**This whole change was just 7 lines of code.** 
+*To overcome the long texts, I found the index of new line character \n. Then we break link into 2 parts and merge again leaving \n. For extra spaces, I used trim() method just before adding the string.*
 ### Run after change
 ![Image5](L4-5.png)
