@@ -1,5 +1,7 @@
 # Edit for more Snippets
 ## My Markdown-parser
+### Tests added
+![Image1](L4-1.png)
 ### Initial Failure in all 3 Code Snippets
 ![Image1](L4-1.png)
 **My code does not consider special cases being tested in given 3 code snippets, hence failed.** 
