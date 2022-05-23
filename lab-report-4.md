@@ -20,3 +20,6 @@ For it, I added the if statement before continue statement.
 *To overcome the long texts, I found the index of new line character \n. Then we break link into 2 parts and merge again leaving \n. For extra spaces, I used trim() method just before adding the string.*
 ### Run after change
 ![Image5](L4-5.png)
+### Snippet 1
+**For considering backticks, I need to consider enclosed string as a code block which requires change in bunch of code lines. The following alone will not work (as in above cases) since it fails other tests. The presence of backticks are in both Brackets and Parenetheses which makes it difficult. Another part that is necessary to incorporate is to read backtick as %60 (ASCII code) in 2nd link.**
+![Image6](L4-6.png)
