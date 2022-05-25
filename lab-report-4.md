@@ -4,14 +4,14 @@
 
 *Repository to review:* [Link-Reviewed](https://github.com/ddn005UCSD/markdown-parser)
 ### Tests added to both repositories
-![Image1](L4-1.png)
+![Image1](L4-0.png)
 ### Initial Failure in all 3 Code Snippets - Shared
 ![Image1](L4-1-Original.png)
 ### Initial Failure in all 3 Code Snippets - Reviewed
-![Image1R](L4-9.png)
+![Image1R](L4-9-RF.png)
 **My code does not consider special cases being tested in given 3 code snippets, hence failed.** 
 ## Snippet 2
-Expected Result for 
+Expected Result 
 ![Image2RS](L4-11.png)
 ### Failure in reviewed Code
 ![Image2R](L4-8.png)
@@ -28,7 +28,7 @@ For it, I added the if statement before continue statement.
 Passed Snippet 2 Test
 ![Image3](L4-2.png)
 ## Snippet 3
-Expected Result for 
+Expected Result
 ![Image3RS](L4-12.png)
 ### Failure in reviewed Code
 ![Image3R](L4-9-Crop.png)
@@ -39,10 +39,10 @@ Expected Result for
 **This whole change was just 7 lines of code.** 
 *To overcome the long texts, I found the index of new line character \n. Then we break link into 2 parts and merge again leaving \n. For extra spaces, I used trim() method just before adding the string.*
 ### Run after change
-Passed Snippet 2 Test
+Passed Snippet 3 Test
 ![Image5](L4-5.png)
 ## Snippet 1
-Expected Result for 
+Expected Result
 ![Image2R](L4-10.png)
 ### Failure in reviewed Code
 ![Image2R](L4-7.png)
