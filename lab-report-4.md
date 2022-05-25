@@ -8,7 +8,7 @@
 ### Initial Failure in all 3 Code Snippets - Shared
 ![Image1](L4-1-Original.png)
 ### Initial Failure in all 3 Code Snippets - Reviewed
-![Image1R](L4-9-RF.png)
+![Image1R](L4-RF.png)
 **My code does not consider special cases being tested in given 3 code snippets, hence failed.** 
 ## Snippet 2
 Expected Result 
@@ -49,4 +49,5 @@ Expected Result
 ### Failure in shared Code
 ![Image3R](L4-1.png)
 **For considering backticks, I need to consider enclosed string as a code block which requires change in bunch of code lines. The following alone will not work (as in above cases) since it fails other tests. The presence of backticks are in both Brackets and Parenetheses which makes it difficult. Another part that is necessary to incorporate is to read backtick as %60 (ASCII code) in 2nd link.**
+Change made
 ![Image6](L4-6.png)
