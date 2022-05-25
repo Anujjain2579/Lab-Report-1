@@ -6,7 +6,7 @@
 ### Tests added to both repositories
 ![Image1](L4-1.png)
 ### Initial Failure in all 3 Code Snippets - Shared
-![Image1](L4-1.png)
+![Image1](L4-1-Original.png)
 ### Initial Failure in all 3 Code Snippets - Reviewed
 ![Image1R](L4-9.png)
 **My code does not consider special cases being tested in given 3 code snippets, hence failed.** 
@@ -15,6 +15,8 @@ Expected Result for
 ![Image2RS](L4-11.png)
 ### Failure in reviewed Code
 ![Image2R](L4-8.png)
+### Failure in shared Code
+![Image3R](L4-1-2.png)
 ### Changes made to pass Snippet 2 - Shared
 ![Image2](L4-3.png)
 **This whole change was just 9 lines of code.** 
@@ -28,7 +30,9 @@ For it, I added the if statement before continue statement.
 Expected Result for 
 ![Image3RS](L4-12.png)
 ### Failure in reviewed Code
-![Image3R](L4-9.png)
+![Image3R](L4-9-Crop.png)
+### Failure in shared Code
+![Image3R](L4-1-3.png)
 ### Changes made to pass Snippet 3
 ![Image4](L4-4.png)
 **This whole change was just 7 lines of code.** 
@@ -40,5 +44,7 @@ Expected Result for
 ![Image2R](L4-10.png)
 ### Failure in reviewed Code
 ![Image2R](L4-7.png)
+### Failure in shared Code
+![Image3R](L4-1.png)
 **For considering backticks, I need to consider enclosed string as a code block which requires change in bunch of code lines. The following alone will not work (as in above cases) since it fails other tests. The presence of backticks are in both Brackets and Parenetheses which makes it difficult. Another part that is necessary to incorporate is to read backtick as %60 (ASCII code) in 2nd link.**
 ![Image6](L4-6.png)
