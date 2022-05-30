@@ -8,3 +8,4 @@ Feel free to suggest cool additions!
 * [Link to Lab R2](lab-report-2.md)
 * [Link to Lab R3](lab-report-3.md)
 * [Link to Lab R4](lab-report-4.md)
+* [Link to Lab R5](lab-report-5.md)
